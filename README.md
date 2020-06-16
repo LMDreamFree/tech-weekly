@@ -40,30 +40,39 @@
 
 ### 收费分享
 
-- [「小马哥 Java 知识星球」](http://t.cn/RnxUYzd)
-> 深入探讨 Java 相关技术，包括行业动态，架构设计，设计模式，框架使用，源码分析等。
+- 极客时间
+  - [小马哥讲Spring核心编程思想](http://t.cn/AikTcHYq)
 
 - SegmentFault 直播
   - [《Java 微服务实践 - Spring Boot / Spring Cloud》](http://t.cn/RoC0nNi)
   - [《一入 Java 深似海》](http://t.cn/E6bTa9O)
 
-- 慕课视频
-  - [《Spring Boot 2.0深度实践之核心技术篇》](http://t.cn/ReChCU9)
-
 - 慕课网
     - [Spring Boot 2.0深度实践之核心技术篇](https://coding.imooc.com/class/252.html)
     - Spring Boot 2.0深度实践之生态整合篇（即将上线...）
+    
+ - [「小马哥 Java 知识星球」](http://t.cn/RnxUYzd)
+> 深入探讨 Java 相关技术，包括行业动态，架构设计，设计模式，框架使用，源码分析等。
 
 
 ## 沟通交流
 
-- Apache Dubbo开源讨论群”群的钉钉群号： `21973601`
-- Spring Cloud Alibaba 开源讨论群”群的钉钉群号： `21914947`
-- Nacos社区群”群的钉钉群号： `21708933`
-- Sentinel开源讨论群”群的钉钉群号： `21977771`
+- 小马哥微信：mercyblitz-1985
 
 
 ## 往期录播
+- [2020.03.13 第四十四期 《小马哥讲Spring核心编程思想课程答疑 2020.03 期》](https://www.bilibili.com/video/BV1gE41137Xc)
+- [2020.02.29 第四十三期《小马哥讲Spring核心编程思想课程答疑 2020.02 期》](https://www.bilibili.com/video/BV1RE41177Yx)
+- [2020.01.31 第四十二期 小马哥讲Spring核心编程思想课程答疑 2020.01 期（续）](https://www.bilibili.com/video/av86053609)
+- [2020.01.17 第四十一期 小马哥讲Spring核心编程思想课程答疑 2020.01 期](https://www.bilibili.com/video/av86052453)
+- [2019.12.31 跨年直播](https://segmentfault.com/ls/1650000021471857)
+- [2019.12.27 第四十期   - 阿里开源工程Velocity Spring Boot](https://www.bilibili.com/video/av80903598)
+- [2019.12.14 第三十九期 - 解读极客时间《小马哥讲 Spring 核心编程思想》目录大纲](https://www.bilibili.com/video/av79258535)
+- [2019.11.29 第三十八期 - 阿里开源工程 Spring Boot Web 扩展工程](https://www.bilibili.com/video/av77491862)
+- [2019.11.22 第三十七期 - Pivotal 技术峰会2019（北京站）见闻](https://www.bilibili.com/video/av76793947)
+- [2019.11.15 第三十六期 - 阿里开源工程 Spring WebMVC 扩展之内容协商](https://www.bilibili.com/video/av75800062)
+- [2019.11.01 第三十五期 - 阿里开源工程 Spring WebMVC 扩展之扩展 HandlerInterceptor](https://www.bilibili.com/video/av74195849)
+- [2019.10.11 第三十四期 - 阿里开源项目系列之 Spring Context 扩展工程](https://www.bilibili.com/video/av70943964)
 - [2019.09.27 第三十三期 - InfoQ 2019 中国（大陆） Java 发展趋势报告解读](https://www.bilibili.com/video/av69203663)
 - [2019.09.20 第三十二期 - Apache Dubbo 设计与实现系列之 Spring Cloud 工程（下）](https://www.bilibili.com/video/av68453823)
 - [2019.09.12 第三十一期 - Apache Dubbo 设计与实现系列之 Spring Cloud 工程（中）](https://www.bilibili.com/video/av67520312)
